@@ -7,5 +7,5 @@ A practical Power BI project created as part of a Power BI course, focusing on c
 Power BI · Power Query · DAX · Excel
 
 ## 📷 Dashboard Overview
-![Customer Risk Analysis](screenshots/CustomerRiskAnalysisDashboard.png)
+![Customer Risk Analysis](CustomerRiskAnalysisDashboard.png)
 ![Customer Churn Dashboard](screenshots/churn_dashboard.png)
